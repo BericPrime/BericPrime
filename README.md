@@ -15,7 +15,7 @@ Feel free to browse through my **Public** repositories, and take whatever code t
 
 
 
-[Guys check it out its rural kentucky](https://map.projectzomboid.com/#11086x9137x9)
+[Check out this video](https://www.youtube.com/watch?v=gYIlC4ja1cI)
 
 
 ![image](https://github.com/BericPrime/BericPrime/assets/88285816/66718426-1efe-49bc-ac93-5789e1d7a694)
