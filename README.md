@@ -9,8 +9,16 @@ My name is Beric, as my handle would suggest. However, I am not the "first" Beri
 - I enjoy videogames
 - I am being intentionally vague as this will be public
 
-[Guys check it out its kentucky](https://map.projectzomboid.com/#11086x9137x9)
+Feel free to browse through my **Public** repositories, and take whatever code the license suggests you can take.
+
+
+
+
+
+[Guys check it out its rural kentucky](https://map.projectzomboid.com/#11086x9137x9)
+
+
 ![image](https://github.com/BericPrime/BericPrime/assets/88285816/66718426-1efe-49bc-ac93-5789e1d7a694)
 
 
-Feel free to browse through my **Public** repositories, and take whatever code the license suggests you can take.
+
