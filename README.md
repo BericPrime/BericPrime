@@ -17,8 +17,9 @@ Feel free to browse through my **Public** repositories, and take whatever code t
 
 [Check out this video](https://www.youtube.com/watch?v=gYIlC4ja1cI)
 
+This is the periodic table of elements for refrence.
+![image](https://github.com/BericPrime/BericPrime/assets/88285816/b67a8cb8-6f3f-4ccc-a596-c4abf933ac30)
 
-![image](https://github.com/BericPrime/BericPrime/assets/88285816/66718426-1efe-49bc-ac93-5789e1d7a694)
 
 
 
